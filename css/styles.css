@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+img{
+    position: absolute;
+    margin-block: center;
+    left: 30%;
+    height: auto;
+    width: 35%;
+    
+    
+}
